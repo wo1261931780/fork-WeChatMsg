@@ -16,4 +16,4 @@ app/DataBase/Msg/*
 *.pyc
 *.log
 *.spec
-test*
+test*.DS_Store
