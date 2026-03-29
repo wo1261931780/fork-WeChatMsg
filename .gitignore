@@ -17,3 +17,5 @@ app/DataBase/Msg/*
 *.log
 *.spec
 test*.DS_Store
+
+.DS_Store
